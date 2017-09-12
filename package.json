@@ -1,0 +1,26 @@
+{
+  "name": "timestamp_microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "url": "https://github.com/fatmike-slo/backEndProject1.git"
+  },
+  "author": "Stupar Andrej",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "nodemon": "^1.12.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.1",
+    "cors": "^2.8.4",
+    "express-useragent": "^1.0.7",
+    "livereload": "^0.6.2"
+  }
+}
