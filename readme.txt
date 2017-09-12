@@ -3,4 +3,4 @@ Features: The API returns a JSON containig client ip, language and software (os 
           
 Dependencies: express, bodyparser, cors, express-useragent
 
-- $ npm install
+$ npm install
